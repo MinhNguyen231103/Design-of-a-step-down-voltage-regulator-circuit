@@ -1,4 +1,3 @@
-#Thiết kế mạch hạ áp sử dụng IC SY8120B1
 📌 Giới thiệu
 Đây là đồ án học phần Nguồn điện, tập trung vào thiết kế mạch DC–DC hạ áp (Buck Converter) sử dụng IC SY8120B1 – một bộ chuyển đổi hạ áp đồng bộ hiệu suất cao, tích hợp MOSFET công suất bên trong.
 
